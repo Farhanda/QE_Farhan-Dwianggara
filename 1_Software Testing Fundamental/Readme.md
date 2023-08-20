@@ -5,7 +5,7 @@
         - Manual
         - Automate
     2. Non Functional Testing
-        -Perfomance Testing
+        - Perfomance Testing
     3. Maintenance
         - Regression
 3. Unit Testing
