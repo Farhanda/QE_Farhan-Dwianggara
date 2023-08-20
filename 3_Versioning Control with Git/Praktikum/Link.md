@@ -1,2 +1,2 @@
-Link Soal_Prioritas_1 :
-Link Soal_Prioritas_2 :
+Link Soal_Prioritas_1 : https://docs.google.com/document/d/1uVES0xcjqQy3vEGd81P9ipllLhyUPlF5RrubnP2dziE/edit?usp=sharing
+Link Soal_Prioritas_2 : https://docs.google.com/document/d/1wM2jgpeMAhybDyl4msmdOwEYsQEJAq6DGS_cKg22FcM/edit?usp=sharing
