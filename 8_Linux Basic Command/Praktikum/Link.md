@@ -1,0 +1,2 @@
+Link Praktikum 1 : https://docs.google.com/document/d/1PN2UweUQNqphff6DC3PuivuvjzJTE3hqx6QfpWR1I3o/edit?usp=sharing
+Link Praktikum 2 : https://docs.google.com/document/d/1K1B6WzopuHfLergvRljP3lI2PlzLKFad0pya5Eai4Co/edit?usp=sharing
