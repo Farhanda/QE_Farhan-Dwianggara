@@ -1,0 +1,1 @@
+Link Prioritas 1 : https://docs.google.com/spreadsheets/d/18TwyFoBmpYIpDKKPy8T06LvPv8zAstq6D_9EE-_IDx4/edit?usp=sharing
