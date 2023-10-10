@@ -1,0 +1,1 @@
+Maaf Jika Memakai Katalon dikarenakan ada error di appium inspector saya
